@@ -7,4 +7,4 @@
 Вторая часть - цифровое депо. Задача регрессии, где нужно спрогнозировать оптимальную толщину гребня для колеса локомотива поезда.
 
 
-![](https://github.com/MarkVoitov/artificial_intelligence_course/blob/main/certificate_ai_2035_university_2021.png)
+![](https://github.com/MarkVoitov/images/blob/main/certificate_ai_2035_university_2021.png)
